@@ -1,7 +1,7 @@
 # PRODIGY_ML_03
 # Cat vs Dog SVM Classifier
 
-## 🐱🐶 Project Overview
+## Project Overview
 
 This project implements a Support Vector Machine (SVM) classifier to distinguish between cats and dogs using image data. The implementation includes proper data preprocessing, dimensionality reduction, hyperparameter tuning, and comprehensive evaluation metrics.
 
